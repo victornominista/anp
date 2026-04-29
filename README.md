@@ -1,3 +1,4 @@
+[README.md](https://github.com/user-attachments/files/27191945/README.md)
 # ANP · Agent Negotiation Protocol
 
 **The economic layer missing from the AI agent stack.**
