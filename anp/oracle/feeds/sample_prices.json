@@ -1,0 +1,58 @@
+{
+  "api_access_basic": {
+    "price": 0.05,
+    "unit": "per_call",
+    "updated": "2026-04-24",
+    "floor": 0.001,
+    "ceiling": 0.20
+  },
+  "api_access_premium": {
+    "price": 0.15,
+    "unit": "per_call",
+    "updated": "2026-04-24",
+    "floor": 0.05,
+    "ceiling": 0.50
+  },
+  "hosting_shared_monthly": {
+    "price": 8.99,
+    "unit": "per_month",
+    "updated": "2026-04-24",
+    "floor": 2.00,
+    "ceiling": 25.00
+  },
+  "hosting_vps_monthly": {
+    "price": 24.00,
+    "unit": "per_month",
+    "updated": "2026-04-24",
+    "floor": 10.00,
+    "ceiling": 80.00
+  },
+  "widget_unit": {
+    "price": 10.00,
+    "unit": "each",
+    "updated": "2026-04-24",
+    "floor": 1.00,
+    "ceiling": 50.00
+  },
+  "llm_token_1k": {
+    "price": 0.002,
+    "unit": "per_1k_tokens",
+    "updated": "2026-04-24",
+    "floor": 0.0001,
+    "ceiling": 0.02
+  },
+  "compute_gpu_hour": {
+    "price": 2.50,
+    "unit": "per_hour",
+    "updated": "2026-04-24",
+    "floor": 0.50,
+    "ceiling": 10.00
+  },
+  "domain_registration_year": {
+    "price": 12.00,
+    "unit": "per_year",
+    "updated": "2026-04-24",
+    "floor": 5.00,
+    "ceiling": 50.00
+  }
+}
